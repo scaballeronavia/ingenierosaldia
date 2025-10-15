@@ -1,0 +1,16 @@
+{
+  "name": "ingenierosaldia-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    // Aquí deben ir tus dependencias de producción
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build", 
+    "start": "next start"
+  },
+  "devDependencies": {
+    // Aquí deben ir tus dependencias de desarrollo
+  }
+}
